@@ -1,0 +1,80 @@
+[{
+  "id": 1,
+  "product-name": "Product 1",
+  "img_preview": "../img/products/good_img_sm_01.jpg",
+  "img_xl": "../img/products/good_img_xl_01.jpg",
+  "product-description": "This is product 1.",
+  "price": "$100"
+},
+  {
+    "id": 2,
+    "product-name": "Product 2",
+    "img_preview": "../img/products/good_img_sm_02.jpg",
+    "img_xl": "../img/products/good_img_xl_0",
+    "product-description": "This is product 2.",
+    "price": "$200"
+  },
+  {
+    "id": 3,
+    "product-name": "Product 3",
+    "img_preview": "../img/products/good_img_sm_03.jpg",
+    "img_xl": "../img/products/good_img_xl_03.jpg",
+    "product-description": "This is product 3.",
+    "price": "$300"
+  },
+  {
+    "id": 4,
+    "product-name": "Product 4",
+    "img_preview": "../img/products/good_img_sm_04.jpg",
+    "img_xl": "../img/products/good_img_xl_04.jpg",
+    "product-description": "This is product 4.",
+    "price": "$400"
+  },
+  {
+    "id": 5,
+    "product-name": "Product 5",
+    "img_preview": "../img/products/good_img_sm_05.jpg",
+    "img_xl": "../img/products/good_img_xl_05.jpg",
+    "product-description": "This is product 5.",
+    "price": "$500"
+  },
+  {
+    "id": 6,
+    "product-name": "Product 6",
+    "img_preview": "../img/products/good_img_sm_06.jpg",
+    "img_xl": "../img/products/good_img_xl_06.jpg",
+    "product-description": "This is product 6.",
+    "price": "$600"
+  },
+  {
+    "id": 7,
+    "product-name": "Product 7",
+    "img_preview": "../img/products/good_img_sm_07.jpg",
+    "img_xl": "../img/products/good_img_xl_07.jpg",
+    "product-description": "This is product 7.",
+    "price": "$700"
+  },
+  {
+    "id": 8,
+    "product-name": "Product 8",
+    "img_preview": "../img/products/good_img_sm_08.jpg",
+    "img_xl": "../img/products/good_img_xl_08.jpg",
+    "product-description": "This is product 8.",
+    "price": "$800"
+  },
+  {
+    "id": 9,
+    "product-name": "Product 9",
+    "img_preview": "../img/products/good_img_sm_09.jpg",
+    "img_xl": "../img/products/good_img_xl_09.jpg",
+    "product-description": "This is product 9.",
+    "price": "$900"
+  },
+  {
+    "id": 10,
+    "product-name": "Product 10",
+    "img_preview": "../img/products/good_img_sm_010.jpg",
+    "img_xl": "../img/products/good_img_xl_010.jpg",
+    "product-description": "This is product 10.",
+    "price": "$1000"
+  }]
